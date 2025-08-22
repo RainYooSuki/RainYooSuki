@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**RainYooSuki/RainYooSuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 你好，我是 [RainYooSuki]！
 
-Here are some ideas to get you started:
+欢迎来到我的 GitHub 主页！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 技术栈 & 工具
+
+### 编程语言
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 🔥 精选项目(Just For Fun)
+
+### [ReFlow-VAE-SVC](https://github.com/RainYooSuki/ReFlow-VAE-SVC)
+
+### [GayIndexDetector](https://github.com/RainYooSuki/GayIndexDetector)
+
+
+## 📈 GitHub 统计
+
+![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=RainYooSuki&show_icons=true&theme=radical)
+
+![热门语言](https://github-readme-stats.vercel.app/api/top-langs/?username=RainYooSuki&layout=compact&theme=radical)
+
+## 🏆 GitHub 奖杯
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=RainYooSuki&theme=radical)
+
+
+
+---
+
+⭐ **欢迎浏览我的代码仓库，随时联系我！**
+
+---
