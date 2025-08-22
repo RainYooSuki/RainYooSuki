@@ -9,7 +9,7 @@
 ### 编程语言
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🔥 精选项目(Just For Fun)
+## 🔥 Just For Fun
 
 ### [ReFlow-VAE-SVC](https://github.com/RainYooSuki/ReFlow-VAE-SVC)
 
