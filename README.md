@@ -22,10 +22,6 @@
 
 ![热门语言](https://github-readme-stats.vercel.app/api/top-langs/?username=RainYooSuki&layout=compact&theme=radical)
 
-## 🏆 GitHub 奖杯
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=RainYooSuki&theme=radical)
-
 
 
 ---
