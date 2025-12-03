@@ -21,14 +21,6 @@
 
 
 
-## 📈 GitHub 统计
-
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=RainYooSuki&show_icons=true&theme=radical)
-
-![热门语言](https://github-readme-stats.vercel.app/api/top-langs/?username=RainYooSuki&layout=compact&theme=radical)
-
-
-
 ---
 
 ⭐ **欢迎浏览我的代码仓库，随时联系我！**
