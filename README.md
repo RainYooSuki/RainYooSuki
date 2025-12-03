@@ -15,6 +15,11 @@
 
 ### [GayIndexDetector](https://github.com/RainYooSuki/GayIndexDetector)
 
+### [AutoSRT](https://github.com/RainYooSuki/AutoSRT)
+
+### [DeepseekOCR-WebUI](https://github.com/RainYooSuki/DeepseekOCR-WebUI)
+
+
 
 ## 📈 GitHub 统计
 
